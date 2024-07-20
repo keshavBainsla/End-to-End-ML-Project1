@@ -2,7 +2,7 @@ pandas
 notebook
 numpy
 mlflow==2.2.2
-sklearn
+scikit-learn
 matplotlib
 python-box==6.0.2
 pyYAML
